@@ -1,0 +1,38 @@
+#!/bin/bash
+# Zara Velasquez Factory CLI
+# Usage: ./zara <command> [args]
+
+cd "$(dirname "$0")"
+
+case "$1" in
+    images)
+        shift
+        python3 pipeline/generate_images.py "$@"
+        ;;
+    video)
+        shift
+        python3 pipeline/generate_video.py "$@"
+        ;;
+    batch)
+        shift
+        python3 pipeline/batch_content.py "$@"
+        ;;
+    setup)
+        python3 scripts/setup.py "$@"
+        ;;
+    *)
+        echo "Zara Velasquez Factory CLI"
+        echo "Usage: ./zara <command> [args]"
+        echo ""
+        echo "Commands:"
+        echo "  images  -- Generate image prompts (week, pillar, variations)"
+        echo "  video   -- Generate video configs (week, type)"
+        echo "  batch   -- Generate weekly content batch (week, focus)"
+        echo "  setup   -- Run setup"
+        echo ""
+        echo "Examples:"
+        echo "  ./zara images --week 1 --pillar ALL"
+        echo "  ./zara video --week 1 --type hedra veo2"
+        echo "  ./zara batch --week 1 --focus BALANCED"
+        ;;
+esac

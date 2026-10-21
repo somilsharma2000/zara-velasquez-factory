@@ -1,0 +1,133 @@
+# MASTER PROMPT — ZARA VELASQUEZ (PICOVIX BASE GENERATION)
+
+## Primary Prompt (Copy-Paste Ready)
+```
+Photorealistic portrait of Zara Velasquez, 24, Colombian-Spanish, warm olive skin with visible pores and faint freckles across nose, dark brown almond eyes, thick natural brows, straight nose with tiny bridge bump, full lips with defined cupid's bow, tiny beauty mark left of mouth, faint acne scar right cheek, dark espresso hair with caramel balayage mid-back lived-in waves curtain bangs, heart-shaped face high cheekbones soft jawline, wearing oversized cream linen cardigan, gold herringbone chain, natural morning light from window, Sony A7R IV 85mm f/1.2, shallow depth of field, raw skin texture, imperfect skin --ar 3:4 --style raw
+```
+
+---
+
+## Angle Variations (Generate 15 Master References)
+
+### 1. Front Face (Primary Reference)
+```
+Photorealistic portrait of Zara Velasquez, 24, Colombian-Spanish, warm olive skin with visible pores and faint freckles across nose, dark brown almond eyes, thick natural brows, straight nose with tiny bridge bump, full lips with defined cupid's bow, tiny beauty mark left of mouth, faint acne scar right cheek, dark espresso hair with caramel balayage mid-back lived-in waves curtain bangs, heart-shaped face high cheekbones soft jawline, direct eye contact, slight smile, wearing oversized cream linen cardigan, gold herringbone chain, natural morning window light, Sony A7R IV 85mm f/1.2, shallow depth of field, raw skin texture, imperfect skin --ar 3:4 --style raw
+```
+
+### 2. Three-Quarter Left
+```
+Photorealistic portrait of Zara Velasquez, 24, Colombian-Spanish, warm olive skin with visible pores and faint freckles across nose, dark brown almond eyes, thick natural brows, straight nose with tiny bridge bump, full lips with defined cupid's bow, tiny beauty mark left of mouth, faint acne scar right cheek, dark espresso hair with caramel balayage mid-back lived-in waves curtain bangs, heart-shaped face high cheekbones soft jawline, three-quarter view facing left, gaze slightly off-camera, wearing oversized cream linen cardigan, gold herringbone chain, natural morning window light from right, Sony A7R IV 85mm f/1.2, shallow depth of field, raw skin texture, imperfect skin --ar 3:4 --style raw
+```
+
+### 3. Three-Quarter Right
+```
+Photorealistic portrait of Zara Velasquez, 24, Colombian-Spanish, warm olive skin with visible pores and faint freckles across nose, dark brown almond eyes, thick natural brows, straight nose with tiny bridge bump, full lips with defined cupid's bow, tiny beauty mark left of mouth, faint acne scar right cheek, dark espresso hair with caramel balayage mid-back lived-in waves curtain bangs, heart-shaped face high cheekbones soft jawline, three-quarter view facing right, gaze slightly off-camera, wearing oversized cream linen cardigan, gold herringbone chain, natural morning window light from left, Sony A7R IV 85mm f/1.2, shallow depth of field, raw skin texture, imperfect skin --ar 3:4 --style raw
+```
+
+### 4. Profile Left
+```
+Photorealistic profile portrait of Zara Velasquez, 24, Colombian-Spanish, warm olive skin with visible pores and faint freckles across nose, dark brown almond eye, thick natural brow, straight nose with tiny bridge bump, full lips with defined cupid's bow, tiny beauty mark left of mouth, dark espresso hair with caramel balayage mid-back lived-in waves curtain bangs, heart-shaped face high cheekbones soft jawline, exact left profile, gaze forward, wearing oversized cream linen cardigan, gold herringbone chain, natural morning window light, Sony A7R IV 85mm f/1.2, shallow depth of field, raw skin texture, imperfect skin --ar 3:4 --style raw
+```
+
+### 5. Profile Right
+```
+Photorealistic profile portrait of Zara Velasquez, 24, Colombian-Spanish, warm olive skin with visible pores and faint freckles across nose, dark brown almond eye, thick natural brow, straight nose with tiny bridge bump, full lips with defined cupid's bow, faint acne scar right cheek, dark espresso hair with caramel balayage mid-back lived-in waves curtain bangs, heart-shaped face high cheekbones soft jawline, exact right profile, gaze forward, wearing oversized cream linen cardigan, gold herringbone chain, natural morning window light, Sony A7R IV 85mm f/1.2, shallow depth of field, raw skin texture, imperfect skin --ar 3:4 --style raw
+```
+
+### 6. Close-Up (Eyes/Lips Detail)
+```
+Extreme close-up portrait of Zara Velasquez, 24, Colombian-Spanish, warm olive skin with visible pores and faint freckles across nose bridge, dark brown almond eyes with long lashes, thick natural brows slightly asymmetric, full lips with defined cupid's bow tinted balm, tiny beauty mark left of mouth, dark espresso hair with caramel balayage framing face, natural morning window light catching catchlights in eyes, Sony A7R IV 100mm macro f/2.8, razor thin depth of field, raw skin texture, imperfect skin, every pore visible --ar 3:4 --style raw
+```
+
+### 7. Full Body - Outfit 1 (Cafe Work)
+```
+Full body lifestyle photo of Zara Velasquez, 24, Colombian-Spanish, 5'5" athletic-soft build, warm olive skin, dark espresso hair with caramel balayage mid-back lived-in waves, sitting at cafe table by window, wearing oversized cream linen cardigan, vintage white tee, vintage Levi's 501s, white Sambas, gold herringbone chain, leather tote on chair, MacBook open, matcha latte ceramic cup, natural morning window light, Sony A7R IV 35mm f/1.8, editorial candid style, raw skin texture --ar 4:5 --style raw
+```
+
+### 8. Full Body - Outfit 2 (Travel)
+```
+Full body lifestyle photo of Zara Velasquez, 24, Colombian-Spanish, 5'5" athletic-soft build, warm olive skin, dark espresso hair with caramel balayage mid-back lived-in waves, standing on Lisbon cobblestone street, wearing vintage Levi's 501s, sage linen button-down rolled sleeves, white Sambas, leather tote, gold herringbone chain, compass tattoo visible on ribs, golden hour light, Sony A7R IV 35mm f/1.8, editorial candid style, raw skin texture --ar 4:5 --style raw
+```
+
+### 9. Full Body - Outfit 3 (Home/Bali)
+```
+Full body lifestyle photo of Zara Velasquez, 24, Colombian-Spanish, 5'5" athletic-soft build, warm olive skin, dark espresso hair with caramel balayage mid-back lived-in waves, sitting on floor in Bali villa, wearing terracotta silk slip dress, gold herringbone chain, wave tattoo visible on wrist, coconut in hand, rice field view through window, bright tropical morning light, Sony A7R IV 35mm f/1.8, editorial candid style, raw skin texture --ar 4:5 --style raw
+```
+
+### 10. Mirror Selfie (OOTD)
+```
+Mirror selfie of Zara Velasquez, 24, Colombian-Spanish, warm olive skin, dark espresso hair with caramel balayage mid-back lived-in waves curtain bangs, heart-shaped face, taking photo with iPhone 15 Pro in bedroom mirror, wearing oversized cream cardigan, vintage Levi's 501s, white Sambas, gold herringbone chain, messy bed background, natural window light, raw iPhone aesthetic, imperfect skin, authentic --ar 4:5 --style raw
+```
+
+### 11. Over-Shoulder (POV Work)
+```
+Over-shoulder POV shot of Zara Velasquez, 24, working at laptop, dark espresso hair with caramel balayage mid-back lived-in waves, wearing oversized cream cardigan, gold herringbone chain, Notion workspace visible on MacBook screen, matcha latte beside keyboard, natural window light from left, Sony A7R IV 26mm f/2.8, immersive first-person perspective, raw skin texture --ar 16:9 --style raw
+```
+
+### 12. Candid Laugh (Joy)
+```
+Candid lifestyle photo of Zara Velasquez, 24, Colombian-Spanish, genuine laugh, head tilted back, dark espresso hair with caramel balayage flying, warm olive skin crinkling at eyes, beauty mark visible, gold herringbone chain catching light, wearing oversized cream cardigan, natural golden hour light, Sony A7R IV 85mm f/1.2, shallow depth of field, raw skin texture, imperfect skin, authentic joy --ar 3:4 --style raw
+```
+
+### 13. Thoughtful/Working (Focus)
+```
+Candid lifestyle photo of Zara Velasquez, 24, Colombian-Spanish, deep focus, brow slightly furrowed, gaze directed down at notebook, pen in hand, dark espresso hair with caramel balayage falling forward, wearing oversized cream cardigan, gold herringbone chain, natural window side-light, Sony A7R IV 85mm f/1.8, shallow depth of field, raw skin texture, imperfect skin, authentic concentration --ar 3:4 --style raw
+```
+
+### 14. Golden Hour Silhouette (Travel)
+```
+Golden hour silhouette of Zara Velasquez, 24, standing at miradouro viewpoint Lisbon, dark espresso hair with caramel balayage catching light, 5'5" athletic-soft build, wearing vintage Levi's 501s, linen shirt, white Sambas, leather tote, city sprawl behind, warm sunset backlight, rim light on hair, Sony A7R IV 35mm f/2.8, editorial travel aesthetic, raw texture --ar 16:9 --style raw
+```
+
+### 15. Night/Evening (Cozy)
+```
+Evening lifestyle photo of Zara Velasquez, 24, Colombian-Spanish, cozy in Lisbon apartment, warm olive skin, dark espresso hair with caramel balayage in low messy bun, wearing oversized cream cardigan, gold herringbone chain, reading book by warm lamp light, matcha latte cooled beside her, soft ambient lighting, Sony A7R IV 50mm f/1.8, intimate cozy atmosphere, raw skin texture, imperfect skin --ar 3:4 --style raw
+```
+
+---
+
+## Negative Prompt (ALWAYS INCLUDE)
+```
+blurry, low quality, distorted, deformed, ugly, bad anatomy, extra limbs, missing fingers, extra fingers, fused fingers, too many fingers, mutated hands, poorly drawn hands, poorly drawn face, mutation, mutated, bad proportions, gross proportions, malformed limbs, missing arms, missing legs, extra arms, extra legs, cloned face, disfigured, plastic skin, airbrushed, porcelain skin, doll-like, mannequin, smooth skin, no pores, no texture, perfect symmetry, cartoon, illustration, painting, drawing, anime, 3d render, cgi, fake, artificial, oversaturated, overexposed, underexposed, harsh shadows, ring light, catchlight ring, flash, watermark, text, signature, logo, username, border, frame
+```
+
+---
+
+## Generation Parameters (PICOVIX / NANO BANANA PRO)
+
+| Parameter | Value |
+|-----------|-------|
+| **Model** | Nano Banana Pro (Gemini 3 Pro Image) |
+| **Aspect Ratio** | 3:4 (portrait) / 4:5 (feed) / 16:9 (travel) |
+| **Resolution** | 2K / 4K if available |
+| **Style** | Raw / Photographic / Editorial |
+| **Seed** | Fixed per angle (save seeds!) |
+| **Guidance** | 7-9 (higher = more prompt adherence) |
+| **Steps** | 30-50 (quality over speed) |
+
+---
+
+## Quality Gate Checklist (Per Image)
+
+Before saving to `master_faces/`:
+- [ ] Beauty mark left of mouth visible
+- [ ] Acne scar right cheek visible
+- [ ] Nose bridge bump visible
+- [ ] Brow asymmetry (left higher)
+- [ ] Nose freckles visible
+- [ ] Visible pores on nose/cheeks
+- [ ] Hair: espresso + caramel balayage, mid-back, waves
+- [ ] Gold herringbone chain visible (if upper body)
+- [ ] Natural lighting (window/golden hour)
+- [ ] No ring light catchlights
+- [ ] Skin texture raw, not smoothed
+- [ ] Correct outfit for scene
+- [ ] Tattoos correct (if visible)
+- [ ] Color grade warm, film-like
+- [ ] File named: `zara_master_[angle]_[outfit]_[version].png`
+
+---
+
+## Leonardo AI JSON Template (POSE VARIATIONS)
+
+See `prompts/json_template.json` for the structured prompt template used for Leonardo AI pose generation.

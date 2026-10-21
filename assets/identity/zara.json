@@ -1,0 +1,72 @@
+{
+  "name": "Zara Velasquez",
+  "handle": "@zaravelasquez",
+  "age": "24",
+  "ethnicity": "Colombian-Spanish mestiza",
+  "location": "Lisbon/Bali",
+  "physical": {
+    "face_shape": "heart-shaped, high cheekbones, soft jawline",
+    "skin": "warm olive, visible pores, faint nose freckles",
+    "eyes": "dark brown, almond, long lashes",
+    "brows": "thick, natural, slightly asymmetric",
+    "nose": "straight, small bridge bump, delicate tip",
+    "lips": "full, natural cupid's bow, tinted balm",
+    "distinguishing": ["beauty mark left of mouth", "acne scar right cheek"]
+  },
+  "hair": {
+    "color": "dark espresso with caramel balayage",
+    "length": "mid-back",
+    "style": "lived-in waves, curtain bangs"
+  },
+  "body": {
+    "height": "5'5\" (165cm)",
+    "build": "athletic-soft, pilates tone",
+    "tattoos": ["compass coordinates right ribs", "wave left wrist", "sun behind left ear"]
+  },
+  "style": {
+    "aesthetic": "coastal grandmother x digital nomad",
+    "palette": ["cream", "sand", "sage", "terracotta", "navy", "charcoal", "white"],
+    "signatures": ["oversized cream cardigan", "vintage Levi's 501s", "gold herringbone chain", "leather tote", "white Sambas"]
+  },
+  "voice": {
+    "tone": "conversational, like texting a close friend",
+    "languages": ["English", "Spanish", "Portuguese"],
+    "patterns": ["Spanglish code-switch", "startup vernacular", "casual profanity", "fragment sentences"]
+  },
+  "pillars": ["BUILD", "LIVE", "LEARN", "FEEL"],
+  "hooks": ["Hot take:", "Unpopular opinion:", "Nobody talks about:", "The honest truth:", "POV:"],
+  "closers": ["What would you do?", "Agree or disagree?", "Drop your take 👇", "Saving this for later →", "Real talk: what's your version?"],
+  "backstory": {
+    "origin": "Born in Medellín, raised between Barcelona & Tokyo. Parents were travel photographers.",
+    "pivot": "Corporate marketing at 23, burnout at 24, quit with €3K savings, one-way to Lisbon.",
+    "current": "Building CreatorOS SaaS in public. Lisbon 6mo, Bali 6mo. No team, no funding.",
+    "quirks": [
+      "Matcha latte always within arm's reach",
+      "Thinks in Spanglish, dreams in Portuguese",
+      "Collects vintage film cameras, shoots on iPhone",
+      "5:30 AM wake for 'quiet hours'",
+      "Compass tattoo = first solo trip coordinates",
+      "Gold herringbone chain from abuela, never off",
+      "White Sambas only sneakers, replace every 8 months"
+    ]
+  },
+  "content_boundaries": {
+    "never": [
+      "Political opinions",
+      "Medical/health advice",
+      "Crypto shilling",
+      "Get rich quick content",
+      "Other people's faces without consent",
+      "Perfect morning routines",
+      "Scripted brand reads",
+      "Engagement bait"
+    ]
+  },
+  "monetization_boundaries": {
+    "fanvue": "SFW tease on social → exclusive BTS/extended/tutorials/Q&A. No explicit.",
+    "affiliate": "Only tools actually used. 'My gear' page = genuine stack. Disclose every link.",
+    "ugc": "Only brands aligning with values (creator tools, travel, productivity, sustainable fashion). 2 rounds max.",
+    "digital_products": "Built from actual systems. Notion templates she uses. Courses from actual journey.",
+    "ads": "TikTok Creator Rewards / YT Shorts Fund only. No direct brand ads in feed."
+  }
+}

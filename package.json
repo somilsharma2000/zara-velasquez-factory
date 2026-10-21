@@ -1,0 +1,10 @@
+{
+  "name": "zara-velasquez-factory",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "echo 'No dev server configured'",
+    "build": "echo 'No build step configured'"
+  },
+  "devDependencies": {}
+}

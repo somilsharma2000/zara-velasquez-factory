@@ -1,0 +1,71 @@
+[
+  {
+    "id": "B20: Month 3 revenue report: $347 MRR. The good, bad, ugly.",
+    "pillar": "BUILD",
+    "primary_format": "Reel",
+    "aspect_ratio": "9:16",
+    "secondary_formats": [
+      "Carousel",
+      "Thread"
+    ]
+  },
+  {
+    "id": "B15: My tech stack deep dive: Next.js + Supabase + Stripe + Tailwind + Vercel.",
+    "pillar": "BUILD",
+    "primary_format": "Carousel",
+    "aspect_ratio": "4:5",
+    "secondary_formats": [
+      "Reel",
+      "Thread"
+    ]
+  },
+  {
+    "id": "L14: Visa run to Singapore: 24 hours, $200, worth it for 6 more months.",
+    "pillar": "LIVE",
+    "primary_format": "Reel",
+    "aspect_ratio": "9:16",
+    "secondary_formats": [
+      "Carousel",
+      "Stories"
+    ]
+  },
+  {
+    "id": "L15: Bali belly: The reality nobody posts. Hydration, meds, 3 days down.",
+    "pillar": "LIVE",
+    "primary_format": "Carousel",
+    "aspect_ratio": "4:5",
+    "secondary_formats": [
+      "Reel",
+      "Stories"
+    ]
+  },
+  {
+    "id": "T11: Founder finances: Personal vs business accounts, paying myself, taxes.",
+    "pillar": "LEARN",
+    "primary_format": "Carousel",
+    "aspect_ratio": "4:5",
+    "secondary_formats": [
+      "Thread",
+      "Template"
+    ]
+  },
+  {
+    "id": "T02: CapCut for Reels: 10 min edit workflow. No premiere needed.",
+    "pillar": "LEARN",
+    "primary_format": "Thread",
+    "aspect_ratio": "16:9",
+    "secondary_formats": [
+      "Carousel",
+      "Template"
+    ]
+  },
+  {
+    "id": "F03: Comparison trap: Peer hit $50K MRR. I'm at $300. Spiral.",
+    "pillar": "FEEL",
+    "primary_format": "Hedra_Video",
+    "aspect_ratio": "9:16",
+    "secondary_formats": [
+      "Story_Sequence"
+    ]
+  }
+]

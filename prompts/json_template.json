@@ -1,0 +1,55 @@
+{
+  "scene_type": "Lifestyle portrait",
+  "character_identity": "ZARA VELASQUEZ - KEEP EXACT",
+  "demographics": {
+    "age": "24",
+    "ethnicity": "Colombian-Spanish mestiza",
+    "location": "Lisbon/Bali"
+  },
+  "physical_locked": {
+    "face_shape": "heart-shaped, high cheekbones, soft jawline",
+    "skin": "warm olive, visible pores, faint nose freckles",
+    "eyes": "dark brown, almond, long lashes",
+    "brows": "thick, natural, slightly asymmetric (left higher)",
+    "nose": "straight, small bridge bump, delicate tip",
+    "lips": "full, natural cupid's bow, tinted balm",
+    "distinguishing_marks": ["beauty mark left of mouth", "acne scar right cheek"],
+    "hair": "dark espresso with caramel balayage, mid-back, lived-in waves, curtain bangs",
+    "build": "athletic-soft, 5'5\", pilates tone",
+    "tattoos": ["compass coordinates right ribs", "wave left wrist", "sun behind left ear"]
+  },
+  "environment": {
+    "location": "[CAFE / GYM / AIRPORT / ROOFTOP / BEDROOM / COWORKING / BEACH / MIRROR / STREET / VILLA]",
+    "background_details": "[SPECIFIC PER LOCATION - see scene_prompts/]",
+    "atmosphere": "candid, editorial, natural, lived-in",
+    "lighting": "[natural window / golden hour / overcast / ambient lamp]",
+    "time_of_day": "[morning 9-11am / golden hour 6-7pm / evening 8-10pm]"
+  },
+  "pose": {
+    "position": "[seated / standing / walking / lounging / mirror_selfie / over_shoulder]",
+    "hands": "[holding_coffee / on_laptop / in_hair / on_hip / holding_book / on_steering]",
+    "orientation": "[front / three_quarter_left / three_quarter_right / profile_left / profile_right / over_shoulder]",
+    "eye_contact": "[direct / off_camera / down_at_work / candid_away]"
+  },
+  "clothing": {
+    "outfit": "[OVERSIZED_CREAM_CARDIGAN_VINTAGE_LEVIS / PILATES_SET / TRAVEL_OUTFIT / SILK_SLIP_DRESS / LINEN_SHIRT_SHORTS / SWIM_COVERUP / HOME_WEAR]",
+    "style": "coastal grandmother x digital nomad",
+    "colors": ["cream", "sand", "sage", "terracotta", "navy", "charcoal", "white"],
+    "signatures_always": ["gold_herringbone_chain", "white_sambas_when_feet_visible"]
+  },
+  "camera": {
+    "type": "[iPhone_15_Pro / Sony_A7R_IV]",
+    "lens": "[26mm / 35mm / 52mm / 85mm]",
+    "aperture": "[f/1.8 / f/2.8 / f/1.2]",
+    "style": "raw, editorial, candid, imperfect"
+  },
+  "post_processing": {
+    "color_grade": "warm film look, slight desaturation, grain",
+    "imperfections_required": ["visible_pores", "freckles", "beauty_mark", "acne_scar", "hair_flyaways", "fabric_texture"]
+  },
+  "technical": {
+    "aspect_ratio": "[3:4 / 4:5 / 9:16 / 16:9 / 1:1]",
+    "resolution": "2K minimum",
+    "format": "PNG for master, JPEG 85% for social"
+  }
+}

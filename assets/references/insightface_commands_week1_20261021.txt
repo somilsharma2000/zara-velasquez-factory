@@ -1,0 +1,46 @@
+# INSIGHTFACE DISCORD COMMANDS
+# Week 1 | 2026-10-21T16:32:46.194307
+# Run in InsightFace Discord: /saveid first, then /swapid
+
+# MASTER IDs (create once):
+/saveid zara_front → upload master_faces/zara_master_front.png
+/saveid zara_3q → upload master_faces/zara_master_3q_left.png
+/saveid zara_profile → upload master_faces/zara_master_profile_left.png
+
+# SWAP COMMANDS:
+/swapid zara_front zara_leonardo_cafe_work_v1_20261021.json → zara_final_cafe_work_v1_20261021.png
+/swapid zara_front zara_leonardo_cafe_work_v2_20261021.json → zara_final_cafe_work_v2_20261021.png
+/swapid zara_front zara_leonardo_cafe_work_v3_20261021.json → zara_final_cafe_work_v3_20261021.png
+/swapid zara_front zara_leonardo_gym_pilates_v1_20261021.json → zara_final_gym_pilates_v1_20261021.png
+/swapid zara_front zara_leonardo_gym_pilates_v2_20261021.json → zara_final_gym_pilates_v2_20261021.png
+/swapid zara_front zara_leonardo_gym_pilates_v3_20261021.json → zara_final_gym_pilates_v3_20261021.png
+/swapid zara_front zara_leonardo_rooftop_sunset_v1_20261021.json → zara_final_rooftop_sunset_v1_20261021.png
+/swapid zara_front zara_leonardo_rooftop_sunset_v2_20261021.json → zara_final_rooftop_sunset_v2_20261021.png
+/swapid zara_front zara_leonardo_rooftop_sunset_v3_20261021.json → zara_final_rooftop_sunset_v3_20261021.png
+/swapid zara_front zara_leonardo_bedroom_morning_v1_20261021.json → zara_final_bedroom_morning_v1_20261021.png
+/swapid zara_front zara_leonardo_bedroom_morning_v2_20261021.json → zara_final_bedroom_morning_v2_20261021.png
+/swapid zara_front zara_leonardo_bedroom_morning_v3_20261021.json → zara_final_bedroom_morning_v3_20261021.png
+/swapid zara_front zara_leonardo_coworking_deepwork_v1_20261021.json → zara_final_coworking_deepwork_v1_20261021.png
+/swapid zara_front zara_leonardo_coworking_deepwork_v2_20261021.json → zara_final_coworking_deepwork_v2_20261021.png
+/swapid zara_front zara_leonardo_coworking_deepwork_v3_20261021.json → zara_final_coworking_deepwork_v3_20261021.png
+/swapid zara_front zara_leonardo_bali_rice_fields_v1_20261021.json → zara_final_bali_rice_fields_v1_20261021.png
+/swapid zara_front zara_leonardo_bali_rice_fields_v2_20261021.json → zara_final_bali_rice_fields_v2_20261021.png
+/swapid zara_front zara_leonardo_bali_rice_fields_v3_20261021.json → zara_final_bali_rice_fields_v3_20261021.png
+/swapid zara_front zara_leonardo_mirror_ootd_v1_20261021.json → zara_final_mirror_ootd_v1_20261021.png
+/swapid zara_front zara_leonardo_mirror_ootd_v2_20261021.json → zara_final_mirror_ootd_v2_20261021.png
+/swapid zara_front zara_leonardo_mirror_ootd_v3_20261021.json → zara_final_mirror_ootd_v3_20261021.png
+/swapid zara_front zara_leonardo_street_lisbon_v1_20261021.json → zara_final_street_lisbon_v1_20261021.png
+/swapid zara_front zara_leonardo_street_lisbon_v2_20261021.json → zara_final_street_lisbon_v2_20261021.png
+/swapid zara_front zara_leonardo_street_lisbon_v3_20261021.json → zara_final_street_lisbon_v3_20261021.png
+/swapid zara_front zara_leonardo_bookstore_reading_v1_20261021.json → zara_final_bookstore_reading_v1_20261021.png
+/swapid zara_front zara_leonardo_bookstore_reading_v2_20261021.json → zara_final_bookstore_reading_v2_20261021.png
+/swapid zara_front zara_leonardo_bookstore_reading_v3_20261021.json → zara_final_bookstore_reading_v3_20261021.png
+/swapid zara_front zara_leonardo_autumn_park_v1_20261021.json → zara_final_autumn_park_v1_20261021.png
+/swapid zara_front zara_leonardo_autumn_park_v2_20261021.json → zara_final_autumn_park_v2_20261021.png
+/swapid zara_front zara_leonardo_autumn_park_v3_20261021.json → zara_final_autumn_park_v3_20261021.png
+/swapid zara_front zara_leonardo_hotel_morning_v1_20261021.json → zara_final_hotel_morning_v1_20261021.png
+/swapid zara_front zara_leonardo_hotel_morning_v2_20261021.json → zara_final_hotel_morning_v2_20261021.png
+/swapid zara_front zara_leonardo_hotel_morning_v3_20261021.json → zara_final_hotel_morning_v3_20261021.png
+/swapid zara_front zara_leonardo_studio_hero_v1_20261021.json → zara_final_studio_hero_v1_20261021.png
+/swapid zara_front zara_leonardo_studio_hero_v2_20261021.json → zara_final_studio_hero_v2_20261021.png
+/swapid zara_front zara_leonardo_studio_hero_v3_20261021.json → zara_final_studio_hero_v3_20261021.png

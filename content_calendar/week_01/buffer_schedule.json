@@ -1,0 +1,1294 @@
+[
+  {
+    "platform": "instagram_reels",
+    "date": "2026-10-19",
+    "time": "12:00",
+    "content_type": "Reel",
+    "caption": {
+      "idea_id": "B20: Month 3 revenue report: $347 MRR. The good, bad, ugly.",
+      "pillar": "BUILD",
+      "template": "B2_failure: Hook \u2192 Mistake \u2192 Cost \u2192 Pivot \u2192 Question",
+      "hook": "POV: You're 24, \u20ac3K savings, blank Next.js repo. What's your first commit?",
+      "body": "[RESEARCH-VALIDATED VALUE for B20: Month 3 revenue report: $347 MRR. The good, bad, ugly. - use B2_failure: Hook \u2192 Mistake \u2192 Cost \u2192 Pivot \u2192 Question structure]",
+      "vulnerable_detail": "[RESEARCH-VALIDATED VULNERABLE DETAIL for B20: Month 3 revenue report: $347 MRR. The good, bad, ugly.]",
+      "cta": "What would you do? / Agree or disagree? / Drop your take \ud83d\udc47 / Saving this for later \u2192 / Real talk: what's your version?",
+      "hashtags": [
+        "#bootstrapped",
+        "#mrr",
+        "#indiehacker",
+        "#nocode",
+        "#solopreneur"
+      ],
+      "platform_adaptations": {
+        "instagram_feed": {
+          "format": "Carousel/Reel",
+          "caption_length": "medium",
+          "hashtags": 5
+        },
+        "instagram_reels": {
+          "format": "Reel",
+          "caption_length": "short",
+          "hashtags": 3,
+          "text_overlay": true
+        },
+        "tiktok": {
+          "format": "Reel",
+          "caption_length": "short",
+          "hashtags": 3,
+          "native_text": true
+        },
+        "youtube_shorts": {
+          "format": "Reel",
+          "caption_length": "short",
+          "hashtags": 3,
+          "pinned_comment": true
+        },
+        "x_twitter": {
+          "format": "Thread",
+          "caption_length": "thread",
+          "hashtags": 2,
+          "quote_tweet": false
+        },
+        "linkedin": {
+          "format": "Post/Article",
+          "caption_length": "long",
+          "hashtags": 3,
+          "professional_frame": true
+        },
+        "fanvue": {
+          "format": "Exclusive",
+          "caption_length": "long",
+          "hashtags": 0,
+          "dm_cta": true
+        }
+      }
+    },
+    "media_path": "[TO BE FILLED: B20: Month 3 revenue report: $347 MRR. The good, bad, ugly.]",
+    "status": "pending"
+  },
+  {
+    "platform": "tiktok",
+    "date": "2026-10-19",
+    "time": "19:00",
+    "content_type": "Reel",
+    "caption": {
+      "idea_id": "B20: Month 3 revenue report: $347 MRR. The good, bad, ugly.",
+      "pillar": "BUILD",
+      "template": "B2_failure: Hook \u2192 Mistake \u2192 Cost \u2192 Pivot \u2192 Question",
+      "hook": "POV: You're 24, \u20ac3K savings, blank Next.js repo. What's your first commit?",
+      "body": "[RESEARCH-VALIDATED VALUE for B20: Month 3 revenue report: $347 MRR. The good, bad, ugly. - use B2_failure: Hook \u2192 Mistake \u2192 Cost \u2192 Pivot \u2192 Question structure]",
+      "vulnerable_detail": "[RESEARCH-VALIDATED VULNERABLE DETAIL for B20: Month 3 revenue report: $347 MRR. The good, bad, ugly.]",
+      "cta": "What would you do? / Agree or disagree? / Drop your take \ud83d\udc47 / Saving this for later \u2192 / Real talk: what's your version?",
+      "hashtags": [
+        "#bootstrapped",
+        "#mrr",
+        "#indiehacker",
+        "#nocode",
+        "#solopreneur"
+      ],
+      "platform_adaptations": {
+        "instagram_feed": {
+          "format": "Carousel/Reel",
+          "caption_length": "medium",
+          "hashtags": 5
+        },
+        "instagram_reels": {
+          "format": "Reel",
+          "caption_length": "short",
+          "hashtags": 3,
+          "text_overlay": true
+        },
+        "tiktok": {
+          "format": "Reel",
+          "caption_length": "short",
+          "hashtags": 3,
+          "native_text": true
+        },
+        "youtube_shorts": {
+          "format": "Reel",
+          "caption_length": "short",
+          "hashtags": 3,
+          "pinned_comment": true
+        },
+        "x_twitter": {
+          "format": "Thread",
+          "caption_length": "thread",
+          "hashtags": 2,
+          "quote_tweet": false
+        },
+        "linkedin": {
+          "format": "Post/Article",
+          "caption_length": "long",
+          "hashtags": 3,
+          "professional_frame": true
+        },
+        "fanvue": {
+          "format": "Exclusive",
+          "caption_length": "long",
+          "hashtags": 0,
+          "dm_cta": true
+        }
+      }
+    },
+    "media_path": "[TO BE FILLED: B20: Month 3 revenue report: $347 MRR. The good, bad, ugly.]",
+    "status": "pending"
+  },
+  {
+    "platform": "youtube_shorts",
+    "date": "2026-10-19",
+    "time": "12:00",
+    "content_type": "Reel",
+    "caption": {
+      "idea_id": "B20: Month 3 revenue report: $347 MRR. The good, bad, ugly.",
+      "pillar": "BUILD",
+      "template": "B2_failure: Hook \u2192 Mistake \u2192 Cost \u2192 Pivot \u2192 Question",
+      "hook": "POV: You're 24, \u20ac3K savings, blank Next.js repo. What's your first commit?",
+      "body": "[RESEARCH-VALIDATED VALUE for B20: Month 3 revenue report: $347 MRR. The good, bad, ugly. - use B2_failure: Hook \u2192 Mistake \u2192 Cost \u2192 Pivot \u2192 Question structure]",
+      "vulnerable_detail": "[RESEARCH-VALIDATED VULNERABLE DETAIL for B20: Month 3 revenue report: $347 MRR. The good, bad, ugly.]",
+      "cta": "What would you do? / Agree or disagree? / Drop your take \ud83d\udc47 / Saving this for later \u2192 / Real talk: what's your version?",
+      "hashtags": [
+        "#bootstrapped",
+        "#mrr",
+        "#indiehacker",
+        "#nocode",
+        "#solopreneur"
+      ],
+      "platform_adaptations": {
+        "instagram_feed": {
+          "format": "Carousel/Reel",
+          "caption_length": "medium",
+          "hashtags": 5
+        },
+        "instagram_reels": {
+          "format": "Reel",
+          "caption_length": "short",
+          "hashtags": 3,
+          "text_overlay": true
+        },
+        "tiktok": {
+          "format": "Reel",
+          "caption_length": "short",
+          "hashtags": 3,
+          "native_text": true
+        },
+        "youtube_shorts": {
+          "format": "Reel",
+          "caption_length": "short",
+          "hashtags": 3,
+          "pinned_comment": true
+        },
+        "x_twitter": {
+          "format": "Thread",
+          "caption_length": "thread",
+          "hashtags": 2,
+          "quote_tweet": false
+        },
+        "linkedin": {
+          "format": "Post/Article",
+          "caption_length": "long",
+          "hashtags": 3,
+          "professional_frame": true
+        },
+        "fanvue": {
+          "format": "Exclusive",
+          "caption_length": "long",
+          "hashtags": 0,
+          "dm_cta": true
+        }
+      }
+    },
+    "media_path": "[TO BE FILLED: B20: Month 3 revenue report: $347 MRR. The good, bad, ugly.]",
+    "status": "pending"
+  },
+  {
+    "platform": "x_twitter",
+    "date": "2026-10-19",
+    "time": "09:00",
+    "content_type": "Single/Thread",
+    "caption": {},
+    "media_path": "[TO BE FILLED: unknown]",
+    "status": "pending"
+  },
+  {
+    "platform": "linkedin",
+    "date": "2026-10-19",
+    "time": "08:00",
+    "content_type": "Single/Thread",
+    "caption": {},
+    "media_path": "[TO BE FILLED: unknown]",
+    "status": "pending"
+  },
+  {
+    "platform": "linkedin",
+    "date": "2026-10-19",
+    "time": "08:00",
+    "content_type": "Post",
+    "caption": {},
+    "media_path": "[TO BE FILLED: unknown]",
+    "status": "pending"
+  },
+  {
+    "platform": "instagram_feed",
+    "date": "2026-10-20",
+    "time": "12:00",
+    "content_type": "Carousel",
+    "caption": {
+      "idea_id": "B15: My tech stack deep dive: Next.js + Supabase + Stripe + Tailwind + Vercel.",
+      "pillar": "BUILD",
+      "template": "B1_metric: Hook \u2192 Value \u2192 Vulnerable Detail \u2192 Question",
+      "hook": "Hot take: Your morning coffee order says more about your business than your pitch deck.",
+      "body": "[RESEARCH-VALIDATED VALUE for B15: My tech stack deep dive: Next.js + Supabase + Stripe + Tailwind + Vercel. - use B1_metric: Hook \u2192 Value \u2192 Vulnerable Detail \u2192 Question structure]",
+      "vulnerable_detail": "[RESEARCH-VALIDATED VULNERABLE DETAIL for B15: My tech stack deep dive: Next.js + Supabase + Stripe + Tailwind + Vercel.]",
+      "cta": "What would you do? / Agree or disagree? / Drop your take \ud83d\udc47 / Saving this for later \u2192 / Real talk: what's your version?",
+      "hashtags": [
+        "#indiehacker",
+        "#founderjourney",
+        "#saasfounder",
+        "#buildinpublic",
+        "#startuplessons"
+      ],
+      "platform_adaptations": {
+        "instagram_feed": {
+          "format": "Carousel/Reel",
+          "caption_length": "medium",
+          "hashtags": 5
+        },
+        "instagram_reels": {
+          "format": "Reel",
+          "caption_length": "short",
+          "hashtags": 3,
+          "text_overlay": true
+        },
+        "tiktok": {
+          "format": "Reel",
+          "caption_length": "short",
+          "hashtags": 3,
+          "native_text": true
+        },
+        "youtube_shorts": {
+          "format": "Reel",
+          "caption_length": "short",
+          "hashtags": 3,
+          "pinned_comment": true
+        },
+        "x_twitter": {
+          "format": "Thread",
+          "caption_length": "thread",
+          "hashtags": 2,
+          "quote_tweet": false
+        },
+        "linkedin": {
+          "format": "Post/Article",
+          "caption_length": "long",
+          "hashtags": 3,
+          "professional_frame": true
+        },
+        "fanvue": {
+          "format": "Exclusive",
+          "caption_length": "long",
+          "hashtags": 0,
+          "dm_cta": true
+        }
+      }
+    },
+    "media_path": "[TO BE FILLED: B15: My tech stack deep dive: Next.js + Supabase + Stripe + Tailwind + Vercel.]",
+    "status": "pending"
+  },
+  {
+    "platform": "linkedin",
+    "date": "2026-10-20",
+    "time": "08:00",
+    "content_type": "Carousel",
+    "caption": {
+      "idea_id": "B15: My tech stack deep dive: Next.js + Supabase + Stripe + Tailwind + Vercel.",
+      "pillar": "BUILD",
+      "template": "B1_metric: Hook \u2192 Value \u2192 Vulnerable Detail \u2192 Question",
+      "hook": "Hot take: Your morning coffee order says more about your business than your pitch deck.",
+      "body": "[RESEARCH-VALIDATED VALUE for B15: My tech stack deep dive: Next.js + Supabase + Stripe + Tailwind + Vercel. - use B1_metric: Hook \u2192 Value \u2192 Vulnerable Detail \u2192 Question structure]",
+      "vulnerable_detail": "[RESEARCH-VALIDATED VULNERABLE DETAIL for B15: My tech stack deep dive: Next.js + Supabase + Stripe + Tailwind + Vercel.]",
+      "cta": "What would you do? / Agree or disagree? / Drop your take \ud83d\udc47 / Saving this for later \u2192 / Real talk: what's your version?",
+      "hashtags": [
+        "#indiehacker",
+        "#founderjourney",
+        "#saasfounder",
+        "#buildinpublic",
+        "#startuplessons"
+      ],
+      "platform_adaptations": {
+        "instagram_feed": {
+          "format": "Carousel/Reel",
+          "caption_length": "medium",
+          "hashtags": 5
+        },
+        "instagram_reels": {
+          "format": "Reel",
+          "caption_length": "short",
+          "hashtags": 3,
+          "text_overlay": true
+        },
+        "tiktok": {
+          "format": "Reel",
+          "caption_length": "short",
+          "hashtags": 3,
+          "native_text": true
+        },
+        "youtube_shorts": {
+          "format": "Reel",
+          "caption_length": "short",
+          "hashtags": 3,
+          "pinned_comment": true
+        },
+        "x_twitter": {
+          "format": "Thread",
+          "caption_length": "thread",
+          "hashtags": 2,
+          "quote_tweet": false
+        },
+        "linkedin": {
+          "format": "Post/Article",
+          "caption_length": "long",
+          "hashtags": 3,
+          "professional_frame": true
+        },
+        "fanvue": {
+          "format": "Exclusive",
+          "caption_length": "long",
+          "hashtags": 0,
+          "dm_cta": true
+        }
+      }
+    },
+    "media_path": "[TO BE FILLED: B15: My tech stack deep dive: Next.js + Supabase + Stripe + Tailwind + Vercel.]",
+    "status": "pending"
+  },
+  {
+    "platform": "x_twitter",
+    "date": "2026-10-20",
+    "time": "09:00",
+    "content_type": "Carousel",
+    "caption": {
+      "idea_id": "B15: My tech stack deep dive: Next.js + Supabase + Stripe + Tailwind + Vercel.",
+      "pillar": "BUILD",
+      "template": "B1_metric: Hook \u2192 Value \u2192 Vulnerable Detail \u2192 Question",
+      "hook": "Hot take: Your morning coffee order says more about your business than your pitch deck.",
+      "body": "[RESEARCH-VALIDATED VALUE for B15: My tech stack deep dive: Next.js + Supabase + Stripe + Tailwind + Vercel. - use B1_metric: Hook \u2192 Value \u2192 Vulnerable Detail \u2192 Question structure]",
+      "vulnerable_detail": "[RESEARCH-VALIDATED VULNERABLE DETAIL for B15: My tech stack deep dive: Next.js + Supabase + Stripe + Tailwind + Vercel.]",
+      "cta": "What would you do? / Agree or disagree? / Drop your take \ud83d\udc47 / Saving this for later \u2192 / Real talk: what's your version?",
+      "hashtags": [
+        "#indiehacker",
+        "#founderjourney",
+        "#saasfounder",
+        "#buildinpublic",
+        "#startuplessons"
+      ],
+      "platform_adaptations": {
+        "instagram_feed": {
+          "format": "Carousel/Reel",
+          "caption_length": "medium",
+          "hashtags": 5
+        },
+        "instagram_reels": {
+          "format": "Reel",
+          "caption_length": "short",
+          "hashtags": 3,
+          "text_overlay": true
+        },
+        "tiktok": {
+          "format": "Reel",
+          "caption_length": "short",
+          "hashtags": 3,
+          "native_text": true
+        },
+        "youtube_shorts": {
+          "format": "Reel",
+          "caption_length": "short",
+          "hashtags": 3,
+          "pinned_comment": true
+        },
+        "x_twitter": {
+          "format": "Thread",
+          "caption_length": "thread",
+          "hashtags": 2,
+          "quote_tweet": false
+        },
+        "linkedin": {
+          "format": "Post/Article",
+          "caption_length": "long",
+          "hashtags": 3,
+          "professional_frame": true
+        },
+        "fanvue": {
+          "format": "Exclusive",
+          "caption_length": "long",
+          "hashtags": 0,
+          "dm_cta": true
+        }
+      }
+    },
+    "media_path": "[TO BE FILLED: B15: My tech stack deep dive: Next.js + Supabase + Stripe + Tailwind + Vercel.]",
+    "status": "pending"
+  },
+  {
+    "platform": "x_twitter",
+    "date": "2026-10-20",
+    "time": "09:00",
+    "content_type": "Single/Thread",
+    "caption": {},
+    "media_path": "[TO BE FILLED: unknown]",
+    "status": "pending"
+  },
+  {
+    "platform": "linkedin",
+    "date": "2026-10-20",
+    "time": "08:00",
+    "content_type": "Single/Thread",
+    "caption": {},
+    "media_path": "[TO BE FILLED: unknown]",
+    "status": "pending"
+  },
+  {
+    "platform": "instagram_reels",
+    "date": "2026-10-21",
+    "time": "12:00",
+    "content_type": "Reel",
+    "caption": {
+      "idea_id": "L14: Visa run to Singapore: 24 hours, $200, worth it for 6 more months.",
+      "pillar": "LIVE",
+      "template": "L3_travel: Hook \u2192 What Stays/Goes \u2192 System \u2192 Vulnerable Detail \u2192 Question",
+      "hook": "Real talk: Bali isn't paradise 24/7. It's humidity, scooter crashes, visa runs. But also this.",
+      "body": "[RESEARCH-VALIDATED VALUE for L14: Visa run to Singapore: 24 hours, $200, worth it for 6 more months. - use L3_travel: Hook \u2192 What Stays/Goes \u2192 System \u2192 Vulnerable Detail \u2192 Question structure]",
+      "vulnerable_detail": "[RESEARCH-VALIDATED VULNERABLE DETAIL for L14: Visa run to Singapore: 24 hours, $200, worth it for 6 more months.]",
+      "cta": "What would you do? / Agree or disagree? / Drop your take \ud83d\udc47 / Saving this for later \u2192 / Real talk: what's your version?",
+      "hashtags": [
+        "#balilife",
+        "#digitalnomad",
+        "#portugallife",
+        "#nomadlife",
+        "#slowtravel"
+      ],
+      "platform_adaptations": {
+        "instagram_feed": {
+          "format": "Carousel/Reel",
+          "caption_length": "medium",
+          "hashtags": 5
+        },
+        "instagram_reels": {
+          "format": "Reel",
+          "caption_length": "short",
+          "hashtags": 3,
+          "text_overlay": true
+        },
+        "tiktok": {
+          "format": "Reel",
+          "caption_length": "short",
+          "hashtags": 3,
+          "native_text": true
+        },
+        "youtube_shorts": {
+          "format": "Reel",
+          "caption_length": "short",
+          "hashtags": 3,
+          "pinned_comment": true
+        },
+        "x_twitter": {
+          "format": "Thread",
+          "caption_length": "thread",
+          "hashtags": 2,
+          "quote_tweet": false
+        },
+        "linkedin": {
+          "format": "Post/Article",
+          "caption_length": "long",
+          "hashtags": 3,
+          "professional_frame": true
+        },
+        "fanvue": {
+          "format": "Exclusive",
+          "caption_length": "long",
+          "hashtags": 0,
+          "dm_cta": true
+        }
+      }
+    },
+    "media_path": "[TO BE FILLED: L14: Visa run to Singapore: 24 hours, $200, worth it for 6 more months.]",
+    "status": "pending"
+  },
+  {
+    "platform": "tiktok",
+    "date": "2026-10-21",
+    "time": "19:00",
+    "content_type": "Reel",
+    "caption": {
+      "idea_id": "L14: Visa run to Singapore: 24 hours, $200, worth it for 6 more months.",
+      "pillar": "LIVE",
+      "template": "L3_travel: Hook \u2192 What Stays/Goes \u2192 System \u2192 Vulnerable Detail \u2192 Question",
+      "hook": "Real talk: Bali isn't paradise 24/7. It's humidity, scooter crashes, visa runs. But also this.",
+      "body": "[RESEARCH-VALIDATED VALUE for L14: Visa run to Singapore: 24 hours, $200, worth it for 6 more months. - use L3_travel: Hook \u2192 What Stays/Goes \u2192 System \u2192 Vulnerable Detail \u2192 Question structure]",
+      "vulnerable_detail": "[RESEARCH-VALIDATED VULNERABLE DETAIL for L14: Visa run to Singapore: 24 hours, $200, worth it for 6 more months.]",
+      "cta": "What would you do? / Agree or disagree? / Drop your take \ud83d\udc47 / Saving this for later \u2192 / Real talk: what's your version?",
+      "hashtags": [
+        "#balilife",
+        "#digitalnomad",
+        "#portugallife",
+        "#nomadlife",
+        "#slowtravel"
+      ],
+      "platform_adaptations": {
+        "instagram_feed": {
+          "format": "Carousel/Reel",
+          "caption_length": "medium",
+          "hashtags": 5
+        },
+        "instagram_reels": {
+          "format": "Reel",
+          "caption_length": "short",
+          "hashtags": 3,
+          "text_overlay": true
+        },
+        "tiktok": {
+          "format": "Reel",
+          "caption_length": "short",
+          "hashtags": 3,
+          "native_text": true
+        },
+        "youtube_shorts": {
+          "format": "Reel",
+          "caption_length": "short",
+          "hashtags": 3,
+          "pinned_comment": true
+        },
+        "x_twitter": {
+          "format": "Thread",
+          "caption_length": "thread",
+          "hashtags": 2,
+          "quote_tweet": false
+        },
+        "linkedin": {
+          "format": "Post/Article",
+          "caption_length": "long",
+          "hashtags": 3,
+          "professional_frame": true
+        },
+        "fanvue": {
+          "format": "Exclusive",
+          "caption_length": "long",
+          "hashtags": 0,
+          "dm_cta": true
+        }
+      }
+    },
+    "media_path": "[TO BE FILLED: L14: Visa run to Singapore: 24 hours, $200, worth it for 6 more months.]",
+    "status": "pending"
+  },
+  {
+    "platform": "youtube_shorts",
+    "date": "2026-10-21",
+    "time": "12:00",
+    "content_type": "Reel",
+    "caption": {
+      "idea_id": "L14: Visa run to Singapore: 24 hours, $200, worth it for 6 more months.",
+      "pillar": "LIVE",
+      "template": "L3_travel: Hook \u2192 What Stays/Goes \u2192 System \u2192 Vulnerable Detail \u2192 Question",
+      "hook": "Real talk: Bali isn't paradise 24/7. It's humidity, scooter crashes, visa runs. But also this.",
+      "body": "[RESEARCH-VALIDATED VALUE for L14: Visa run to Singapore: 24 hours, $200, worth it for 6 more months. - use L3_travel: Hook \u2192 What Stays/Goes \u2192 System \u2192 Vulnerable Detail \u2192 Question structure]",
+      "vulnerable_detail": "[RESEARCH-VALIDATED VULNERABLE DETAIL for L14: Visa run to Singapore: 24 hours, $200, worth it for 6 more months.]",
+      "cta": "What would you do? / Agree or disagree? / Drop your take \ud83d\udc47 / Saving this for later \u2192 / Real talk: what's your version?",
+      "hashtags": [
+        "#balilife",
+        "#digitalnomad",
+        "#portugallife",
+        "#nomadlife",
+        "#slowtravel"
+      ],
+      "platform_adaptations": {
+        "instagram_feed": {
+          "format": "Carousel/Reel",
+          "caption_length": "medium",
+          "hashtags": 5
+        },
+        "instagram_reels": {
+          "format": "Reel",
+          "caption_length": "short",
+          "hashtags": 3,
+          "text_overlay": true
+        },
+        "tiktok": {
+          "format": "Reel",
+          "caption_length": "short",
+          "hashtags": 3,
+          "native_text": true
+        },
+        "youtube_shorts": {
+          "format": "Reel",
+          "caption_length": "short",
+          "hashtags": 3,
+          "pinned_comment": true
+        },
+        "x_twitter": {
+          "format": "Thread",
+          "caption_length": "thread",
+          "hashtags": 2,
+          "quote_tweet": false
+        },
+        "linkedin": {
+          "format": "Post/Article",
+          "caption_length": "long",
+          "hashtags": 3,
+          "professional_frame": true
+        },
+        "fanvue": {
+          "format": "Exclusive",
+          "caption_length": "long",
+          "hashtags": 0,
+          "dm_cta": true
+        }
+      }
+    },
+    "media_path": "[TO BE FILLED: L14: Visa run to Singapore: 24 hours, $200, worth it for 6 more months.]",
+    "status": "pending"
+  },
+  {
+    "platform": "x_twitter",
+    "date": "2026-10-21",
+    "time": "09:00",
+    "content_type": "Single/Thread",
+    "caption": {},
+    "media_path": "[TO BE FILLED: unknown]",
+    "status": "pending"
+  },
+  {
+    "platform": "linkedin",
+    "date": "2026-10-21",
+    "time": "08:00",
+    "content_type": "Single/Thread",
+    "caption": {},
+    "media_path": "[TO BE FILLED: unknown]",
+    "status": "pending"
+  },
+  {
+    "platform": "linkedin",
+    "date": "2026-10-21",
+    "time": "08:00",
+    "content_type": "Post",
+    "caption": {},
+    "media_path": "[TO BE FILLED: unknown]",
+    "status": "pending"
+  },
+  {
+    "platform": "instagram_feed",
+    "date": "2026-10-22",
+    "time": "12:00",
+    "content_type": "Carousel",
+    "caption": {
+      "idea_id": "L15: Bali belly: The reality nobody posts. Hydration, meds, 3 days down.",
+      "pillar": "LIVE",
+      "template": "L3_travel: Hook \u2192 What Stays/Goes \u2192 System \u2192 Vulnerable Detail \u2192 Question",
+      "hook": "POV: You're packing 6 months of life into 35L. What stays? What goes?",
+      "body": "[RESEARCH-VALIDATED VALUE for L15: Bali belly: The reality nobody posts. Hydration, meds, 3 days down. - use L3_travel: Hook \u2192 What Stays/Goes \u2192 System \u2192 Vulnerable Detail \u2192 Question structure]",
+      "vulnerable_detail": "[RESEARCH-VALIDATED VULNERABLE DETAIL for L15: Bali belly: The reality nobody posts. Hydration, meds, 3 days down.]",
+      "cta": "What would you do? / Agree or disagree? / Drop your take \ud83d\udc47 / Saving this for later \u2192 / Real talk: what's your version?",
+      "hashtags": [
+        "#remotework",
+        "#lisbonlife",
+        "#nomadlife",
+        "#digitalnomad",
+        "#visalife"
+      ],
+      "platform_adaptations": {
+        "instagram_feed": {
+          "format": "Carousel/Reel",
+          "caption_length": "medium",
+          "hashtags": 5
+        },
+        "instagram_reels": {
+          "format": "Reel",
+          "caption_length": "short",
+          "hashtags": 3,
+          "text_overlay": true
+        },
+        "tiktok": {
+          "format": "Reel",
+          "caption_length": "short",
+          "hashtags": 3,
+          "native_text": true
+        },
+        "youtube_shorts": {
+          "format": "Reel",
+          "caption_length": "short",
+          "hashtags": 3,
+          "pinned_comment": true
+        },
+        "x_twitter": {
+          "format": "Thread",
+          "caption_length": "thread",
+          "hashtags": 2,
+          "quote_tweet": false
+        },
+        "linkedin": {
+          "format": "Post/Article",
+          "caption_length": "long",
+          "hashtags": 3,
+          "professional_frame": true
+        },
+        "fanvue": {
+          "format": "Exclusive",
+          "caption_length": "long",
+          "hashtags": 0,
+          "dm_cta": true
+        }
+      }
+    },
+    "media_path": "[TO BE FILLED: L15: Bali belly: The reality nobody posts. Hydration, meds, 3 days down.]",
+    "status": "pending"
+  },
+  {
+    "platform": "linkedin",
+    "date": "2026-10-22",
+    "time": "08:00",
+    "content_type": "Carousel",
+    "caption": {
+      "idea_id": "L15: Bali belly: The reality nobody posts. Hydration, meds, 3 days down.",
+      "pillar": "LIVE",
+      "template": "L3_travel: Hook \u2192 What Stays/Goes \u2192 System \u2192 Vulnerable Detail \u2192 Question",
+      "hook": "POV: You're packing 6 months of life into 35L. What stays? What goes?",
+      "body": "[RESEARCH-VALIDATED VALUE for L15: Bali belly: The reality nobody posts. Hydration, meds, 3 days down. - use L3_travel: Hook \u2192 What Stays/Goes \u2192 System \u2192 Vulnerable Detail \u2192 Question structure]",
+      "vulnerable_detail": "[RESEARCH-VALIDATED VULNERABLE DETAIL for L15: Bali belly: The reality nobody posts. Hydration, meds, 3 days down.]",
+      "cta": "What would you do? / Agree or disagree? / Drop your take \ud83d\udc47 / Saving this for later \u2192 / Real talk: what's your version?",
+      "hashtags": [
+        "#remotework",
+        "#lisbonlife",
+        "#nomadlife",
+        "#digitalnomad",
+        "#visalife"
+      ],
+      "platform_adaptations": {
+        "instagram_feed": {
+          "format": "Carousel/Reel",
+          "caption_length": "medium",
+          "hashtags": 5
+        },
+        "instagram_reels": {
+          "format": "Reel",
+          "caption_length": "short",
+          "hashtags": 3,
+          "text_overlay": true
+        },
+        "tiktok": {
+          "format": "Reel",
+          "caption_length": "short",
+          "hashtags": 3,
+          "native_text": true
+        },
+        "youtube_shorts": {
+          "format": "Reel",
+          "caption_length": "short",
+          "hashtags": 3,
+          "pinned_comment": true
+        },
+        "x_twitter": {
+          "format": "Thread",
+          "caption_length": "thread",
+          "hashtags": 2,
+          "quote_tweet": false
+        },
+        "linkedin": {
+          "format": "Post/Article",
+          "caption_length": "long",
+          "hashtags": 3,
+          "professional_frame": true
+        },
+        "fanvue": {
+          "format": "Exclusive",
+          "caption_length": "long",
+          "hashtags": 0,
+          "dm_cta": true
+        }
+      }
+    },
+    "media_path": "[TO BE FILLED: L15: Bali belly: The reality nobody posts. Hydration, meds, 3 days down.]",
+    "status": "pending"
+  },
+  {
+    "platform": "x_twitter",
+    "date": "2026-10-22",
+    "time": "09:00",
+    "content_type": "Carousel",
+    "caption": {
+      "idea_id": "L15: Bali belly: The reality nobody posts. Hydration, meds, 3 days down.",
+      "pillar": "LIVE",
+      "template": "L3_travel: Hook \u2192 What Stays/Goes \u2192 System \u2192 Vulnerable Detail \u2192 Question",
+      "hook": "POV: You're packing 6 months of life into 35L. What stays? What goes?",
+      "body": "[RESEARCH-VALIDATED VALUE for L15: Bali belly: The reality nobody posts. Hydration, meds, 3 days down. - use L3_travel: Hook \u2192 What Stays/Goes \u2192 System \u2192 Vulnerable Detail \u2192 Question structure]",
+      "vulnerable_detail": "[RESEARCH-VALIDATED VULNERABLE DETAIL for L15: Bali belly: The reality nobody posts. Hydration, meds, 3 days down.]",
+      "cta": "What would you do? / Agree or disagree? / Drop your take \ud83d\udc47 / Saving this for later \u2192 / Real talk: what's your version?",
+      "hashtags": [
+        "#remotework",
+        "#lisbonlife",
+        "#nomadlife",
+        "#digitalnomad",
+        "#visalife"
+      ],
+      "platform_adaptations": {
+        "instagram_feed": {
+          "format": "Carousel/Reel",
+          "caption_length": "medium",
+          "hashtags": 5
+        },
+        "instagram_reels": {
+          "format": "Reel",
+          "caption_length": "short",
+          "hashtags": 3,
+          "text_overlay": true
+        },
+        "tiktok": {
+          "format": "Reel",
+          "caption_length": "short",
+          "hashtags": 3,
+          "native_text": true
+        },
+        "youtube_shorts": {
+          "format": "Reel",
+          "caption_length": "short",
+          "hashtags": 3,
+          "pinned_comment": true
+        },
+        "x_twitter": {
+          "format": "Thread",
+          "caption_length": "thread",
+          "hashtags": 2,
+          "quote_tweet": false
+        },
+        "linkedin": {
+          "format": "Post/Article",
+          "caption_length": "long",
+          "hashtags": 3,
+          "professional_frame": true
+        },
+        "fanvue": {
+          "format": "Exclusive",
+          "caption_length": "long",
+          "hashtags": 0,
+          "dm_cta": true
+        }
+      }
+    },
+    "media_path": "[TO BE FILLED: L15: Bali belly: The reality nobody posts. Hydration, meds, 3 days down.]",
+    "status": "pending"
+  },
+  {
+    "platform": "x_twitter",
+    "date": "2026-10-22",
+    "time": "09:00",
+    "content_type": "Single/Thread",
+    "caption": {},
+    "media_path": "[TO BE FILLED: unknown]",
+    "status": "pending"
+  },
+  {
+    "platform": "linkedin",
+    "date": "2026-10-22",
+    "time": "08:00",
+    "content_type": "Single/Thread",
+    "caption": {},
+    "media_path": "[TO BE FILLED: unknown]",
+    "status": "pending"
+  },
+  {
+    "platform": "instagram_feed",
+    "date": "2026-10-23",
+    "time": "12:00",
+    "content_type": "Carousel",
+    "caption": {
+      "idea_id": "T11: Founder finances: Personal vs business accounts, paying myself, taxes.",
+      "pillar": "LEARN",
+      "template": "T2_money: Hook \u2192 Revenue Breakdown \u2192 Costs \u2192 Vulnerable Detail \u2192 CTA",
+      "hook": "Hot take: Blog posts are a waste of time for early-stage SaaS. Here's why I only make TikToks.",
+      "body": "[RESEARCH-VALIDATED VALUE for T11: Founder finances: Personal vs business accounts, paying myself, taxes. - use T2_money: Hook \u2192 Revenue Breakdown \u2192 Costs \u2192 Vulnerable Detail \u2192 CTA structure]",
+      "vulnerable_detail": "[RESEARCH-VALIDATED VULNERABLE DETAIL for T11: Founder finances: Personal vs business accounts, paying myself, taxes.]",
+      "cta": "What would you do? / Agree or disagree? / Drop your take \ud83d\udc47 / Saving this for later \u2192 / Real talk: what's your version?",
+      "hashtags": [
+        "#ugccreator",
+        "#newslettergrowth",
+        "#notiontemplate",
+        "#affiliatemarketing",
+        "#productivity"
+      ],
+      "platform_adaptations": {
+        "instagram_feed": {
+          "format": "Carousel/Reel",
+          "caption_length": "medium",
+          "hashtags": 5
+        },
+        "instagram_reels": {
+          "format": "Reel",
+          "caption_length": "short",
+          "hashtags": 3,
+          "text_overlay": true
+        },
+        "tiktok": {
+          "format": "Reel",
+          "caption_length": "short",
+          "hashtags": 3,
+          "native_text": true
+        },
+        "youtube_shorts": {
+          "format": "Reel",
+          "caption_length": "short",
+          "hashtags": 3,
+          "pinned_comment": true
+        },
+        "x_twitter": {
+          "format": "Thread",
+          "caption_length": "thread",
+          "hashtags": 2,
+          "quote_tweet": false
+        },
+        "linkedin": {
+          "format": "Post/Article",
+          "caption_length": "long",
+          "hashtags": 3,
+          "professional_frame": true
+        },
+        "fanvue": {
+          "format": "Exclusive",
+          "caption_length": "long",
+          "hashtags": 0,
+          "dm_cta": true
+        }
+      }
+    },
+    "media_path": "[TO BE FILLED: T11: Founder finances: Personal vs business accounts, paying myself, taxes.]",
+    "status": "pending"
+  },
+  {
+    "platform": "linkedin",
+    "date": "2026-10-23",
+    "time": "08:00",
+    "content_type": "Carousel",
+    "caption": {
+      "idea_id": "T11: Founder finances: Personal vs business accounts, paying myself, taxes.",
+      "pillar": "LEARN",
+      "template": "T2_money: Hook \u2192 Revenue Breakdown \u2192 Costs \u2192 Vulnerable Detail \u2192 CTA",
+      "hook": "Hot take: Blog posts are a waste of time for early-stage SaaS. Here's why I only make TikToks.",
+      "body": "[RESEARCH-VALIDATED VALUE for T11: Founder finances: Personal vs business accounts, paying myself, taxes. - use T2_money: Hook \u2192 Revenue Breakdown \u2192 Costs \u2192 Vulnerable Detail \u2192 CTA structure]",
+      "vulnerable_detail": "[RESEARCH-VALIDATED VULNERABLE DETAIL for T11: Founder finances: Personal vs business accounts, paying myself, taxes.]",
+      "cta": "What would you do? / Agree or disagree? / Drop your take \ud83d\udc47 / Saving this for later \u2192 / Real talk: what's your version?",
+      "hashtags": [
+        "#ugccreator",
+        "#newslettergrowth",
+        "#notiontemplate",
+        "#affiliatemarketing",
+        "#productivity"
+      ],
+      "platform_adaptations": {
+        "instagram_feed": {
+          "format": "Carousel/Reel",
+          "caption_length": "medium",
+          "hashtags": 5
+        },
+        "instagram_reels": {
+          "format": "Reel",
+          "caption_length": "short",
+          "hashtags": 3,
+          "text_overlay": true
+        },
+        "tiktok": {
+          "format": "Reel",
+          "caption_length": "short",
+          "hashtags": 3,
+          "native_text": true
+        },
+        "youtube_shorts": {
+          "format": "Reel",
+          "caption_length": "short",
+          "hashtags": 3,
+          "pinned_comment": true
+        },
+        "x_twitter": {
+          "format": "Thread",
+          "caption_length": "thread",
+          "hashtags": 2,
+          "quote_tweet": false
+        },
+        "linkedin": {
+          "format": "Post/Article",
+          "caption_length": "long",
+          "hashtags": 3,
+          "professional_frame": true
+        },
+        "fanvue": {
+          "format": "Exclusive",
+          "caption_length": "long",
+          "hashtags": 0,
+          "dm_cta": true
+        }
+      }
+    },
+    "media_path": "[TO BE FILLED: T11: Founder finances: Personal vs business accounts, paying myself, taxes.]",
+    "status": "pending"
+  },
+  {
+    "platform": "x_twitter",
+    "date": "2026-10-23",
+    "time": "09:00",
+    "content_type": "Carousel",
+    "caption": {
+      "idea_id": "T11: Founder finances: Personal vs business accounts, paying myself, taxes.",
+      "pillar": "LEARN",
+      "template": "T2_money: Hook \u2192 Revenue Breakdown \u2192 Costs \u2192 Vulnerable Detail \u2192 CTA",
+      "hook": "Hot take: Blog posts are a waste of time for early-stage SaaS. Here's why I only make TikToks.",
+      "body": "[RESEARCH-VALIDATED VALUE for T11: Founder finances: Personal vs business accounts, paying myself, taxes. - use T2_money: Hook \u2192 Revenue Breakdown \u2192 Costs \u2192 Vulnerable Detail \u2192 CTA structure]",
+      "vulnerable_detail": "[RESEARCH-VALIDATED VULNERABLE DETAIL for T11: Founder finances: Personal vs business accounts, paying myself, taxes.]",
+      "cta": "What would you do? / Agree or disagree? / Drop your take \ud83d\udc47 / Saving this for later \u2192 / Real talk: what's your version?",
+      "hashtags": [
+        "#ugccreator",
+        "#newslettergrowth",
+        "#notiontemplate",
+        "#affiliatemarketing",
+        "#productivity"
+      ],
+      "platform_adaptations": {
+        "instagram_feed": {
+          "format": "Carousel/Reel",
+          "caption_length": "medium",
+          "hashtags": 5
+        },
+        "instagram_reels": {
+          "format": "Reel",
+          "caption_length": "short",
+          "hashtags": 3,
+          "text_overlay": true
+        },
+        "tiktok": {
+          "format": "Reel",
+          "caption_length": "short",
+          "hashtags": 3,
+          "native_text": true
+        },
+        "youtube_shorts": {
+          "format": "Reel",
+          "caption_length": "short",
+          "hashtags": 3,
+          "pinned_comment": true
+        },
+        "x_twitter": {
+          "format": "Thread",
+          "caption_length": "thread",
+          "hashtags": 2,
+          "quote_tweet": false
+        },
+        "linkedin": {
+          "format": "Post/Article",
+          "caption_length": "long",
+          "hashtags": 3,
+          "professional_frame": true
+        },
+        "fanvue": {
+          "format": "Exclusive",
+          "caption_length": "long",
+          "hashtags": 0,
+          "dm_cta": true
+        }
+      }
+    },
+    "media_path": "[TO BE FILLED: T11: Founder finances: Personal vs business accounts, paying myself, taxes.]",
+    "status": "pending"
+  },
+  {
+    "platform": "x_twitter",
+    "date": "2026-10-23",
+    "time": "09:00",
+    "content_type": "Single/Thread",
+    "caption": {},
+    "media_path": "[TO BE FILLED: unknown]",
+    "status": "pending"
+  },
+  {
+    "platform": "linkedin",
+    "date": "2026-10-23",
+    "time": "08:00",
+    "content_type": "Single/Thread",
+    "caption": {},
+    "media_path": "[TO BE FILLED: unknown]",
+    "status": "pending"
+  },
+  {
+    "platform": "linkedin",
+    "date": "2026-10-23",
+    "time": "08:00",
+    "content_type": "Post",
+    "caption": {},
+    "media_path": "[TO BE FILLED: unknown]",
+    "status": "pending"
+  },
+  {
+    "platform": "x_twitter",
+    "date": "2026-10-24",
+    "time": "09:00",
+    "content_type": "Thread",
+    "caption": {
+      "idea_id": "T02: CapCut for Reels: 10 min edit workflow. No premiere needed.",
+      "pillar": "LEARN",
+      "template": "T3_book: Hook \u2192 Quote \u2192 3 Takeaways \u2192 Vulnerable Detail \u2192 Question",
+      "hook": "My \u20ac3K runway \u2192 $1K MRR. Every expense tracked. Free spreadsheet in bio.",
+      "body": "[RESEARCH-VALIDATED VALUE for T02: CapCut for Reels: 10 min edit workflow. No premiere needed. - use T3_book: Hook \u2192 Quote \u2192 3 Takeaways \u2192 Vulnerable Detail \u2192 Question structure]",
+      "vulnerable_detail": "[RESEARCH-VALIDATED VULNERABLE DETAIL for T02: CapCut for Reels: 10 min edit workflow. No premiere needed.]",
+      "cta": "What would you do? / Agree or disagree? / Drop your take \ud83d\udc47 / Saving this for later \u2192 / Real talk: what's your version?",
+      "hashtags": [
+        "#notiontemplate",
+        "#affiliatemarketing",
+        "#fanvue",
+        "#creatorconomy",
+        "#newslettergrowth"
+      ],
+      "platform_adaptations": {
+        "instagram_feed": {
+          "format": "Carousel/Reel",
+          "caption_length": "medium",
+          "hashtags": 5
+        },
+        "instagram_reels": {
+          "format": "Reel",
+          "caption_length": "short",
+          "hashtags": 3,
+          "text_overlay": true
+        },
+        "tiktok": {
+          "format": "Reel",
+          "caption_length": "short",
+          "hashtags": 3,
+          "native_text": true
+        },
+        "youtube_shorts": {
+          "format": "Reel",
+          "caption_length": "short",
+          "hashtags": 3,
+          "pinned_comment": true
+        },
+        "x_twitter": {
+          "format": "Thread",
+          "caption_length": "thread",
+          "hashtags": 2,
+          "quote_tweet": false
+        },
+        "linkedin": {
+          "format": "Post/Article",
+          "caption_length": "long",
+          "hashtags": 3,
+          "professional_frame": true
+        },
+        "fanvue": {
+          "format": "Exclusive",
+          "caption_length": "long",
+          "hashtags": 0,
+          "dm_cta": true
+        }
+      }
+    },
+    "media_path": "[TO BE FILLED: T02: CapCut for Reels: 10 min edit workflow. No premiere needed.]",
+    "status": "pending"
+  },
+  {
+    "platform": "linkedin",
+    "date": "2026-10-24",
+    "time": "08:00",
+    "content_type": "Thread",
+    "caption": {
+      "idea_id": "T02: CapCut for Reels: 10 min edit workflow. No premiere needed.",
+      "pillar": "LEARN",
+      "template": "T3_book: Hook \u2192 Quote \u2192 3 Takeaways \u2192 Vulnerable Detail \u2192 Question",
+      "hook": "My \u20ac3K runway \u2192 $1K MRR. Every expense tracked. Free spreadsheet in bio.",
+      "body": "[RESEARCH-VALIDATED VALUE for T02: CapCut for Reels: 10 min edit workflow. No premiere needed. - use T3_book: Hook \u2192 Quote \u2192 3 Takeaways \u2192 Vulnerable Detail \u2192 Question structure]",
+      "vulnerable_detail": "[RESEARCH-VALIDATED VULNERABLE DETAIL for T02: CapCut for Reels: 10 min edit workflow. No premiere needed.]",
+      "cta": "What would you do? / Agree or disagree? / Drop your take \ud83d\udc47 / Saving this for later \u2192 / Real talk: what's your version?",
+      "hashtags": [
+        "#notiontemplate",
+        "#affiliatemarketing",
+        "#fanvue",
+        "#creatorconomy",
+        "#newslettergrowth"
+      ],
+      "platform_adaptations": {
+        "instagram_feed": {
+          "format": "Carousel/Reel",
+          "caption_length": "medium",
+          "hashtags": 5
+        },
+        "instagram_reels": {
+          "format": "Reel",
+          "caption_length": "short",
+          "hashtags": 3,
+          "text_overlay": true
+        },
+        "tiktok": {
+          "format": "Reel",
+          "caption_length": "short",
+          "hashtags": 3,
+          "native_text": true
+        },
+        "youtube_shorts": {
+          "format": "Reel",
+          "caption_length": "short",
+          "hashtags": 3,
+          "pinned_comment": true
+        },
+        "x_twitter": {
+          "format": "Thread",
+          "caption_length": "thread",
+          "hashtags": 2,
+          "quote_tweet": false
+        },
+        "linkedin": {
+          "format": "Post/Article",
+          "caption_length": "long",
+          "hashtags": 3,
+          "professional_frame": true
+        },
+        "fanvue": {
+          "format": "Exclusive",
+          "caption_length": "long",
+          "hashtags": 0,
+          "dm_cta": true
+        }
+      }
+    },
+    "media_path": "[TO BE FILLED: T02: CapCut for Reels: 10 min edit workflow. No premiere needed.]",
+    "status": "pending"
+  },
+  {
+    "platform": "x_twitter",
+    "date": "2026-10-24",
+    "time": "09:00",
+    "content_type": "Single/Thread",
+    "caption": {},
+    "media_path": "[TO BE FILLED: unknown]",
+    "status": "pending"
+  },
+  {
+    "platform": "linkedin",
+    "date": "2026-10-24",
+    "time": "08:00",
+    "content_type": "Single/Thread",
+    "caption": {},
+    "media_path": "[TO BE FILLED: unknown]",
+    "status": "pending"
+  },
+  {
+    "platform": "x_twitter",
+    "date": "2026-10-25",
+    "time": "09:00",
+    "content_type": "Single/Thread",
+    "caption": {},
+    "media_path": "[TO BE FILLED: unknown]",
+    "status": "pending"
+  },
+  {
+    "platform": "linkedin",
+    "date": "2026-10-25",
+    "time": "08:00",
+    "content_type": "Single/Thread",
+    "caption": {},
+    "media_path": "[TO BE FILLED: unknown]",
+    "status": "pending"
+  }
+]

@@ -1,0 +1,98 @@
+{
+  "character": "Zara Velasquez",
+  "version": "1.0",
+  "created": "2026-10-21",
+  "status": "approved",
+  "identity_card": {
+    "name": "Zara Velasquez",
+    "handle": "@zaravelasquez",
+    "age": "24",
+    "ethnicity": "Colombian-Spanish mestiza",
+    "location": "Lisbon/Bali",
+    "physical": {
+      "face_shape": "heart-shaped, high cheekbones, soft jawline",
+      "skin": "warm olive, visible pores, faint nose freckles",
+      "eyes": "dark brown, almond, long lashes",
+      "brows": "thick, natural, slightly asymmetric",
+      "nose": "straight, small bridge bump, delicate tip",
+      "lips": "full, natural cupid's bow, tinted balm",
+      "distinguishing": ["beauty mark left of mouth", "acne scar right cheek"]
+    },
+    "hair": {
+      "color": "dark espresso with caramel balayage",
+      "length": "mid-back",
+      "style": "lived-in waves, curtain bangs"
+    },
+    "body": {
+      "height": "5'5\" (165cm)",
+      "build": "athletic-soft, pilates tone",
+      "tattoos": ["compass coordinates right ribs", "wave left wrist", "sun behind left ear"]
+    },
+    "style": {
+      "aesthetic": "coastal grandmother x digital nomad",
+      "palette": ["cream", "sand", "sage", "terracotta", "navy", "charcoal", "white"],
+      "signatures": ["oversized cream cardigan", "vintage Levi's 501s", "gold herringbone chain", "leather tote", "white Sambas"]
+    }
+  },
+  "voice_card": {
+    "tone": "conversational, like texting a close friend",
+    "languages": ["English", "Spanish", "Portuguese"],
+    "patterns": ["Spanglish code-switch", "startup vernacular", "casual profanity", "fragment sentences"],
+    "hooks": ["Hot take:", "Unpopular opinion:", "Nobody talks about:", "The honest truth:", "POV:"],
+    "closers": ["What would you do?", "Agree or disagree?", "Drop your take 👇", "Saving this for later →", "Real talk: what's your version?"]
+  },
+  "content_card": {
+    "pillars": ["BUILD", "LIVE", "LEARN", "FEEL"],
+    "boundaries": {
+      "never": ["Political opinions", "Medical/health advice", "Crypto shilling", "Get rich quick content", "Other people's faces without consent", "Perfect morning routines", "Scripted brand reads", "Engagement bait"]
+    },
+    "monetization": {
+      "fanvue": "SFW tease on social → exclusive BTS/extended/tutorials/Q&A. No explicit.",
+      "affiliate": "Only tools actually used. 'My gear' page = genuine stack. Disclose every link.",
+      "ugc": "Only brands aligning with values (creator tools, travel, productivity, sustainable fashion). 2 rounds max.",
+      "digital_products": "Built from actual systems. Notion templates she uses. Courses from actual journey.",
+      "ads": "TikTok Creator Rewards / YT Shorts Fund only. No direct brand ads in feed."
+    }
+  },
+  "visual_card": {
+    "color_palette": {
+      "cream": "#F5F0E8",
+      "sand": "#D4C4B0",
+      "sage": "#8A9A8A",
+      "terracotta": "#C67A5A",
+      "navy": "#1B2A4A",
+      "charcoal": "#363636",
+      "white": "#FFFFFF"
+    },
+    "lighting": ["natural window", "golden hour", "overcast"],
+    "camera_profiles": ["iPhone Selfie 26mm f/1.8", "iPhone Main 26mm f/1.8", "iPhone Portrait 52mm f/2.8", "Sony 35mm f/1.8", "Sony 85mm f/1.2"],
+    "composition": "Zara Frame - eyes upper third, negative space top, grounding bottom",
+    "imperfections_required": ["visible pores", "freckles", "beauty mark", "acne scar", "hair flyaways", "fabric texture", "lived-in environment"]
+  },
+  "reference_lock": {
+    "master_references": 15,
+    "angles": ["front", "3/4_left", "3/4_right", "profile_left", "profile_right", "close_up", "full_body_x3_outfits"],
+    "face_swap_ids": ["zara_front", "zara_3q", "zara_profile"],
+    "quality_gate": "1 in 3 generated images passes to final_assets"
+  },
+  "pipeline_config": {
+    "base_generation": "Picovix",
+    "pose_variations": "Leonardo AI Photography",
+    "consistency_lock": "Discord InsightFace",
+    "lip_sync": "Hedra",
+    "cinematic_motion": "Veo 2 Google AI Studio",
+    "video_face_swap": "Google Colab InsightFace",
+    "scheduling": "Buffer Free",
+    "email": "ConvertKit Free",
+    "analytics": "Notion Dashboard"
+  },
+  "platform_specs": {
+    "instagram_feed": {"format": "JPEG", "dimensions": "1080x1350", "aspect": "4:5"},
+    "instagram_reels": {"format": "MP4", "dimensions": "1080x1920", "aspect": "9:16", "max_mb": 100},
+    "tiktok": {"format": "MP4", "dimensions": "1080x1920", "aspect": "9:16", "max_mb": 287},
+    "youtube_shorts": {"format": "MP4", "dimensions": "1080x1920", "aspect": "9:16", "max_sec": 60},
+    "x_twitter": {"format": "JPEG/MP4", "dimensions": "1200x675", "aspect": "16:9"},
+    "linkedin": {"format": "JPEG", "dimensions": "1200x628", "aspect": "1.91:1"},
+    "fanvue": {"format": "JPEG/MP4", "dimensions": "1080x1350/1080x1920", "quality": "90%"}
+  }
+}
