@@ -1,0 +1,37 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install ruff black
+      - run: ruff check .
+      - run: black --check .
+  
+  validate-json:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: |
+          find . -name "*.json" -not -path "./node_modules/*" -not -path "./.git/*" | xargs -I {} python -m json.tool {} > /dev/null
+  
+  test-pipelines:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install -r requirements.txt 2>/dev/null || true
+      - run: python -c "import pipeline.generate_images; import pipeline.generate_video; import pipeline.batch_content; print('Pipelines import OK')"
+      - run: python scripts/setup.py --help 2>/dev/null || true

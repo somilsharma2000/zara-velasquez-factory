@@ -1,0 +1,34 @@
+name: Daily Cron
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # 6:00 AM WET = 00:00 UTC
+  workflow_dispatch:
+
+jobs:
+  daily-metrics-sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Install dependencies
+        run: |
+          pip install notion-client requests python-dotenv
+      
+      - name: Run daily cron
+        env:
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+          MAKE_WEBHOOK_URL: ${{ secrets.MAKE_WEBHOOK_URL }}
+        run: |
+          python scripts/daily_cron.sh
+      
+      - name: Notify on failure
+        if: failure()
+        run: |
+          echo "Daily cron failed - check logs"

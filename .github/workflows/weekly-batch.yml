@@ -1,0 +1,51 @@
+name: Weekly Batch
+
+on:
+  schedule:
+    - cron: '0 10 * * 0'  # Sunday 10:00 AM WET
+  workflow_dispatch:
+    inputs:
+      week:
+        description: 'Week number'
+        required: false
+        type: string
+      focus:
+        description: 'Pillar focus'
+        required: false
+        type: string
+        default: 'BALANCED'
+
+jobs:
+  weekly-batch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Install dependencies
+        run: |
+          pip install notion-client requests python-dotenv
+      
+      - name: Run weekly batch
+        env:
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+          MAKE_WEBHOOK_URL: ${{ secrets.MAKE_WEBHOOK_URL }}
+          CONVERTKIT_API_KEY: ${{ secrets.CONVERTKIT_API_KEY }}
+        run: |
+          WEEK=${{ github.event.inputs.week || github.run_number }}
+          FOCUS=${{ github.event.inputs.focus || 'BALANCED' }}
+          ./zara batch --week $WEEK --focus $FOCUS
+      
+      - name: Commit weekly artifacts
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Week $WEEK batch: $FOCUS focus" || echo "No changes to commit"
+          git push
